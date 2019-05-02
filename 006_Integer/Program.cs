@@ -12,7 +12,7 @@ namespace _006_Integer
         {
             Console.WriteLine("Введите целое двузначное число");
             int integer = Convert.ToInt32(Console.ReadLine());
-
+           
             if (integer >= 10 && integer <= 99)
             {
                 int firstNumber = integer % 10;
