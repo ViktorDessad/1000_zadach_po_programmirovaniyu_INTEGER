@@ -28,7 +28,7 @@ namespace _007_Integer
             }
             else
             {
-                Console.WriteLine("Число должно быть больше 10 и меньше 99");
+                Console.WriteLine("Число должно быть больше или равно 10 и меньше 99");
             }
         }
     }
