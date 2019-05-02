@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022_Integer", "022_Integer\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023_Integer", "023_Integer\023_Integer.csproj", "{6F6A51A8-2F9B-4438-B19E-210F231F539C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024_Integer", "024_Integer\024_Integer.csproj", "{BDA606A5-A286-49AC-9908-15C4BD05DC11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{6F6A51A8-2F9B-4438-B19E-210F231F539C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F6A51A8-2F9B-4438-B19E-210F231F539C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F6A51A8-2F9B-4438-B19E-210F231F539C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA606A5-A286-49AC-9908-15C4BD05DC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA606A5-A286-49AC-9908-15C4BD05DC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA606A5-A286-49AC-9908-15C4BD05DC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA606A5-A286-49AC-9908-15C4BD05DC11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
