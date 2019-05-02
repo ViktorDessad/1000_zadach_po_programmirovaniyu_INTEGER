@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1000_zadach_integer", "1000
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Integer", "001_Integer\001_Integer.csproj", "{64E5F2AD-5115-4C58-B9A4-AC4E0832E8FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Integer", "002_Integer\002_Integer.csproj", "{550A6545-962B-4766-A04E-9ED1AC861D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Integer", "003_Integer\003_Integer.csproj", "{C50BF39A-C38F-415D-8E56-8E7C9E8693A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{64E5F2AD-5115-4C58-B9A4-AC4E0832E8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64E5F2AD-5115-4C58-B9A4-AC4E0832E8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64E5F2AD-5115-4C58-B9A4-AC4E0832E8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550A6545-962B-4766-A04E-9ED1AC861D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550A6545-962B-4766-A04E-9ED1AC861D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550A6545-962B-4766-A04E-9ED1AC861D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550A6545-962B-4766-A04E-9ED1AC861D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50BF39A-C38F-415D-8E56-8E7C9E8693A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50BF39A-C38F-415D-8E56-8E7C9E8693A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50BF39A-C38F-415D-8E56-8E7C9E8693A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50BF39A-C38F-415D-8E56-8E7C9E8693A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
