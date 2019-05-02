@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Integer", "010_Integer\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Integer", "011_Integer\011_Integer.csproj", "{51594D57-48E2-465F-A994-634F82C2044F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Begin", "012_Begin\012_Begin.csproj", "{1F0C3BA0-AE8F-418E-9E27-AD6111B9F169}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Integer", "012_Begin\012_Integer.csproj", "{1F0C3BA0-AE8F-418E-9E27-AD6111B9F169}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
