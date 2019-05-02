@@ -10,7 +10,7 @@ namespace _028_Integer
     {
         static void Main(string[] args)
         {
-             
+             //Will be back tomorrow
         }
     }
 }
