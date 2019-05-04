@@ -10,7 +10,16 @@ namespace _028_Integer
     {
         static void Main(string[] args)
         {
-             //Will be back tomorrow
+            Console.WriteLine("Введите номер дня этого года от 1-365");
+            int dayNumber = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Введите число от 1-7");
+            int number = Convert.ToInt32(Console.ReadLine());
+
+
+            dayNumber = ((dayNumber + number - 2) % 7) + 1;
+            Console.WriteLine(dayNumber);
+
         }
     }
 }
